@@ -85,67 +85,77 @@
         <translation type="unfinished">파일</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="46"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="48"/>
         <source>Edit</source>
         <translation type="unfinished">편집</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="53"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="55"/>
         <source>View</source>
         <translation type="unfinished">보기</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="65"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="67"/>
         <source>Toolbar</source>
         <translation type="unfinished">도구 모음</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="105"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="107"/>
         <source>Open</source>
         <translation type="unfinished">열기</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="113"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="115"/>
         <source>Open Campaignset</source>
         <translation type="unfinished">캠페인 세트 열기</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="121"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="123"/>
         <source>Save</source>
         <translation type="unfinished">저장</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="129"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="131"/>
         <source>New</source>
         <translation type="unfinished">새로 만들기</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="137"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="139"/>
         <source>Save as...</source>
         <translation type="unfinished">다른 이름으로 저장...</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="140"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="142"/>
         <source>Ctrl+Shift+S</source>
         <translation type="unfinished">Ctrl+Shift+S</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="145"/>
-        <location filename="../campaigneditor/campaigneditor.ui" line="148"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="147"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="150"/>
         <source>Campaign Properties</source>
         <translation type="unfinished">캠페인 속성</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="159"/>
-        <location filename="../campaigneditor/campaigneditor.ui" line="162"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="161"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="164"/>
         <source>Scenario Properties</source>
         <translation type="unfinished">시나리오 속성</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaigneditor.ui" line="173"/>
-        <location filename="../campaigneditor/campaigneditor.ui" line="176"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="175"/>
+        <location filename="../campaigneditor/campaigneditor.ui" line="178"/>
         <source>Show full background</source>
         <translation type="unfinished">전체 배경 표시</translation>
+    </message>
+    <message>
+        <location filename="../campaigneditor/campaigneditor.ui" line="186"/>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../campaigneditor/campaigneditor.ui" line="189"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../campaigneditor/campaigneditor.cpp" line="138"/>
@@ -238,7 +248,7 @@
     <name>CampaignProperties</name>
     <message>
         <location filename="../campaigneditor/campaignproperties.ui" line="14"/>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="27"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="29"/>
         <source>Campaign Properties</source>
         <translation type="unfinished">캠페인 속성</translation>
     </message>
@@ -359,42 +369,42 @@
         <translation type="unfinished">아웃트로 비디오</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="56"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="58"/>
         <source>Custom</source>
         <translation type="unfinished">사용자 정의</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="148"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="150"/>
         <source>Infix</source>
         <translation type="unfinished">중간 삽입어</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="148"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="150"/>
         <source>X</source>
         <translation type="unfinished">X</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="148"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="150"/>
         <source>Y</source>
         <translation type="unfinished">Y</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="148"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="150"/>
         <source>Label Pos X</source>
         <translation type="unfinished">라벨 위치 X</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="148"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="150"/>
         <source>Label Pos Y</source>
         <translation type="unfinished">라벨 위치 Y</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="200"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="202"/>
         <source>Fewer Scenarios</source>
         <translation type="unfinished">시나리오 수 감소</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/campaignproperties.cpp" line="200"/>
+        <location filename="../campaigneditor/campaignproperties.cpp" line="202"/>
         <source>New Region setup supports fewer scenarios than before. Some will removed. Continue?</source>
         <translation type="unfinished">새로운 지역 설정은 이전보다 시나리오 수가 적습니다. 일부가 제거됩니다. 계속하시겠습니까?</translation>
     </message>
@@ -414,307 +424,307 @@
     </message>
     <message>
         <location filename="../mainwindow.ui" line="63"/>
-        <location filename="../mainwindow.ui" line="1041"/>
+        <location filename="../mainwindow.ui" line="1043"/>
         <source>Open Recent</source>
         <translation type="unfinished">최근 열기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="82"/>
+        <location filename="../mainwindow.ui" line="84"/>
         <source>Map</source>
         <translation type="unfinished">맵</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="94"/>
+        <location filename="../mainwindow.ui" line="96"/>
         <source>Edit</source>
         <translation type="unfinished">편집</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="107"/>
+        <location filename="../mainwindow.ui" line="109"/>
         <source>View</source>
         <translation type="unfinished">보기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="119"/>
+        <location filename="../mainwindow.ui" line="121"/>
         <source>Player</source>
         <translation type="unfinished">플레이어</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="139"/>
+        <location filename="../mainwindow.ui" line="141"/>
         <source>Toolbar</source>
         <translation type="unfinished">도구 모음</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="200"/>
+        <location filename="../mainwindow.ui" line="202"/>
         <source>Minimap</source>
         <translation type="unfinished">미니맵</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="273"/>
+        <location filename="../mainwindow.ui" line="275"/>
         <source>Map Objects View</source>
         <translation type="unfinished">맵 오브젝트 보기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="317"/>
+        <location filename="../mainwindow.ui" line="319"/>
         <source>Browser</source>
         <translation type="unfinished">브라우저</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="395"/>
+        <location filename="../mainwindow.ui" line="397"/>
         <source>Inspector</source>
         <translation type="unfinished">인스펙터</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="437"/>
+        <location filename="../mainwindow.ui" line="439"/>
         <source>Property</source>
         <translation type="unfinished">속성</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="442"/>
+        <location filename="../mainwindow.ui" line="444"/>
         <source>Value</source>
         <translation type="unfinished">값</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="466"/>
+        <location filename="../mainwindow.ui" line="468"/>
         <source>Tools</source>
         <translation type="unfinished">도구</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="830"/>
+        <location filename="../mainwindow.ui" line="832"/>
         <source>Painting</source>
         <translation type="unfinished">그리기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="882"/>
+        <location filename="../mainwindow.ui" line="884"/>
         <source>Terrains</source>
         <translation type="unfinished">지형</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="925"/>
+        <location filename="../mainwindow.ui" line="927"/>
         <source>Roads</source>
         <translation type="unfinished">도로</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="965"/>
+        <location filename="../mainwindow.ui" line="967"/>
         <source>Rivers</source>
         <translation type="unfinished">강</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="999"/>
+        <location filename="../mainwindow.ui" line="1001"/>
         <source>Preview</source>
         <translation type="unfinished">미리보기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1033"/>
+        <location filename="../mainwindow.ui" line="1035"/>
         <source>Open</source>
         <translation type="unfinished">열기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1036"/>
+        <location filename="../mainwindow.ui" line="1038"/>
         <source>Ctrl+O</source>
         <translation type="unfinished">Ctrl+O</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1046"/>
+        <location filename="../mainwindow.ui" line="1048"/>
         <source>More...</source>
         <translation type="unfinished">더 보기...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1054"/>
+        <location filename="../mainwindow.ui" line="1056"/>
         <source>Save</source>
         <translation type="unfinished">저장</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1057"/>
+        <location filename="../mainwindow.ui" line="1059"/>
         <source>Ctrl+S</source>
         <translation type="unfinished">Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1062"/>
+        <location filename="../mainwindow.ui" line="1064"/>
         <source>New</source>
         <translation type="unfinished">새로 만들기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1065"/>
+        <location filename="../mainwindow.ui" line="1067"/>
         <source>Ctrl+N</source>
         <translation type="unfinished">Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1070"/>
+        <location filename="../mainwindow.ui" line="1072"/>
         <source>Save as...</source>
         <translation type="unfinished">다른 이름으로 저장...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1073"/>
+        <location filename="../mainwindow.ui" line="1075"/>
         <source>Ctrl+Shift+S</source>
         <translation type="unfinished">Ctrl+Shift+S</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1078"/>
-        <location filename="../mainwindow.ui" line="1081"/>
+        <location filename="../mainwindow.ui" line="1080"/>
+        <location filename="../mainwindow.ui" line="1083"/>
         <source>Campaign editor</source>
         <translation type="unfinished">캠페인 편집기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1086"/>
-        <location filename="../mainwindow.ui" line="1089"/>
+        <location filename="../mainwindow.ui" line="1088"/>
+        <location filename="../mainwindow.ui" line="1091"/>
         <source>Template editor</source>
         <translation type="unfinished">템플릿 에디터</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1097"/>
-        <location filename="../mainwindow.ui" line="1100"/>
+        <location filename="../mainwindow.ui" line="1099"/>
+        <location filename="../mainwindow.ui" line="1102"/>
         <source>View underground</source>
         <translation type="unfinished">지하 보기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1103"/>
+        <location filename="../mainwindow.ui" line="1105"/>
         <source>Ctrl+U</source>
         <translation type="unfinished">Ctrl+U</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1111"/>
+        <location filename="../mainwindow.ui" line="1113"/>
         <source>Pass</source>
         <translation type="unfinished">통과</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1114"/>
+        <location filename="../mainwindow.ui" line="1116"/>
         <source>Ctrl+Shift+P</source>
         <translation type="unfinished">Ctrl+Shift+P</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1119"/>
+        <location filename="../mainwindow.ui" line="1121"/>
         <source>Cut</source>
         <translation type="unfinished">잘라내기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1122"/>
+        <location filename="../mainwindow.ui" line="1124"/>
         <source>Ctrl+X</source>
         <translation type="unfinished">Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1127"/>
+        <location filename="../mainwindow.ui" line="1129"/>
         <source>Copy</source>
         <translation type="unfinished">복사</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1130"/>
+        <location filename="../mainwindow.ui" line="1132"/>
         <source>Ctrl+C</source>
         <translation type="unfinished">Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1135"/>
+        <location filename="../mainwindow.ui" line="1137"/>
         <source>Paste</source>
         <translation type="unfinished">붙여넣기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1138"/>
+        <location filename="../mainwindow.ui" line="1140"/>
         <source>Ctrl+V</source>
         <translation type="unfinished">Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1143"/>
+        <location filename="../mainwindow.ui" line="1145"/>
         <source>Fill</source>
         <translation type="unfinished">채우기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1146"/>
+        <location filename="../mainwindow.ui" line="1148"/>
         <source>Fills the selection with obstacles</source>
         <translation type="unfinished">선택 영역을 장애물로 채웁니다</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1157"/>
+        <location filename="../mainwindow.ui" line="1159"/>
         <source>Grid</source>
         <translation type="unfinished">격자</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1160"/>
+        <location filename="../mainwindow.ui" line="1162"/>
         <source>Ctrl+G</source>
         <translation type="unfinished">Ctrl+G</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1168"/>
+        <location filename="../mainwindow.ui" line="1170"/>
         <source>General</source>
         <translation type="unfinished">일반</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1171"/>
+        <location filename="../mainwindow.ui" line="1173"/>
         <source>Map title and description</source>
         <translation type="unfinished">맵 제목 및 설명</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1174"/>
+        <location filename="../mainwindow.ui" line="1176"/>
         <source>Ctrl+Enter</source>
         <translation type="unfinished">Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1182"/>
+        <location filename="../mainwindow.ui" line="1184"/>
         <source>Players settings</source>
         <translation type="unfinished">플레이어 설정</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1185"/>
+        <location filename="../mainwindow.ui" line="1187"/>
         <source>Ctrl+P</source>
         <translation type="unfinished">Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1193"/>
-        <location filename="../mainwindow.ui" line="1196"/>
+        <location filename="../mainwindow.ui" line="1195"/>
+        <location filename="../mainwindow.ui" line="1198"/>
         <source>Undo</source>
         <translation type="unfinished">실행 취소</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1199"/>
+        <location filename="../mainwindow.ui" line="1201"/>
         <source>Ctrl+Z</source>
         <translation type="unfinished">Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1210"/>
+        <location filename="../mainwindow.ui" line="1212"/>
         <source>Redo</source>
         <translation type="unfinished">다시 실행</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1213"/>
+        <location filename="../mainwindow.ui" line="1215"/>
         <source>Ctrl+Y</source>
         <translation type="unfinished">Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1224"/>
+        <location filename="../mainwindow.ui" line="1226"/>
         <source>Erase</source>
         <translation type="unfinished">지우기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1227"/>
+        <location filename="../mainwindow.ui" line="1229"/>
         <source>Del</source>
         <translation type="unfinished">Del</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1235"/>
+        <location filename="../mainwindow.ui" line="1237"/>
         <source>Neutral</source>
         <translation type="unfinished">중립</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1238"/>
+        <location filename="../mainwindow.ui" line="1240"/>
         <source>Ctrl+0</source>
         <translation type="unfinished">Ctrl+0</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1243"/>
+        <location filename="../mainwindow.ui" line="1245"/>
         <source>Validate</source>
         <translation type="unfinished">검사</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1246"/>
+        <location filename="../mainwindow.ui" line="1248"/>
         <source>Ctrl+Shift+V</source>
         <translation type="unfinished">Ctrl+Shift+V</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1254"/>
+        <location filename="../mainwindow.ui" line="1256"/>
         <location filename="../mainwindow.cpp" line="1542"/>
         <source>Select map layer type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1265"/>
+        <location filename="../mainwindow.ui" line="1267"/>
         <location filename="../mainwindow.cpp" line="1451"/>
         <location filename="../mainwindow.cpp" line="1455"/>
         <location filename="../mainwindow.cpp" line="1513"/>
@@ -722,190 +732,200 @@
         <translation type="unfinished">외형 업데이트</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1276"/>
+        <location filename="../mainwindow.ui" line="1278"/>
         <source>Recreate obstacles</source>
         <translation type="unfinished">장애물 다시 생성</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1287"/>
+        <location filename="../mainwindow.ui" line="1289"/>
         <source>Player 1</source>
         <translation type="unfinished">플레이어 1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1290"/>
+        <location filename="../mainwindow.ui" line="1292"/>
         <source>Ctrl+1</source>
         <translation type="unfinished">Ctrl+1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1298"/>
+        <location filename="../mainwindow.ui" line="1300"/>
         <source>Player 2</source>
         <translation type="unfinished">플레이어 2</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1301"/>
+        <location filename="../mainwindow.ui" line="1303"/>
         <source>Ctrl+2</source>
         <translation type="unfinished">Ctrl+2</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1309"/>
+        <location filename="../mainwindow.ui" line="1311"/>
         <source>Player 3</source>
         <translation type="unfinished">플레이어 3</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1312"/>
+        <location filename="../mainwindow.ui" line="1314"/>
         <source>Ctrl+3</source>
         <translation type="unfinished">Ctrl+3</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1320"/>
+        <location filename="../mainwindow.ui" line="1322"/>
         <source>Player 4</source>
         <translation type="unfinished">플레이어 4</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1323"/>
+        <location filename="../mainwindow.ui" line="1325"/>
         <source>Ctrl+4</source>
         <translation type="unfinished">Ctrl+4</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1331"/>
+        <location filename="../mainwindow.ui" line="1333"/>
         <source>Player 5</source>
         <translation type="unfinished">플레이어 5</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1334"/>
+        <location filename="../mainwindow.ui" line="1336"/>
         <source>Ctrl+5</source>
         <translation type="unfinished">Ctrl+5</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1342"/>
+        <location filename="../mainwindow.ui" line="1344"/>
         <source>Player 6</source>
         <translation type="unfinished">플레이어 6</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1345"/>
+        <location filename="../mainwindow.ui" line="1347"/>
         <source>Ctrl+6</source>
         <translation type="unfinished">Ctrl+6</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1353"/>
+        <location filename="../mainwindow.ui" line="1355"/>
         <source>Player 7</source>
         <translation type="unfinished">플레이어 7</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1356"/>
+        <location filename="../mainwindow.ui" line="1358"/>
         <source>Ctrl+7</source>
         <translation type="unfinished">Ctrl+7</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1364"/>
+        <location filename="../mainwindow.ui" line="1366"/>
         <source>Player 8</source>
         <translation type="unfinished">플레이어 8</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1367"/>
+        <location filename="../mainwindow.ui" line="1369"/>
         <source>Ctrl+8</source>
         <translation type="unfinished">Ctrl+8</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1372"/>
+        <location filename="../mainwindow.ui" line="1374"/>
         <source>Export as...</source>
         <translation type="unfinished">다른 이름으로 내보내기...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1375"/>
+        <location filename="../mainwindow.ui" line="1377"/>
         <source>Ctrl+E</source>
         <translation type="unfinished">Ctrl+E</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1383"/>
+        <location filename="../mainwindow.ui" line="1385"/>
         <source>Translations</source>
         <translation type="unfinished">번역</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1386"/>
+        <location filename="../mainwindow.ui" line="1388"/>
         <source>Ctrl+T</source>
         <translation type="unfinished">Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1391"/>
-        <location filename="../mainwindow.ui" line="1394"/>
+        <location filename="../mainwindow.ui" line="1393"/>
+        <location filename="../mainwindow.ui" line="1396"/>
         <source>h3m converter</source>
         <translation type="unfinished">h3m 변환기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1397"/>
+        <location filename="../mainwindow.ui" line="1399"/>
         <source>Ctrl+Shift+M</source>
         <translation type="unfinished">Ctrl+Shift+M</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1402"/>
-        <location filename="../mainwindow.ui" line="1405"/>
+        <location filename="../mainwindow.ui" line="1404"/>
+        <location filename="../mainwindow.ui" line="1407"/>
         <source>h3c converter</source>
         <translation type="unfinished">h3c 변환기</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1408"/>
+        <location filename="../mainwindow.ui" line="1410"/>
         <source>Ctrl+Shift+C</source>
         <translation type="unfinished">Ctrl+Shift+C</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1413"/>
+        <location filename="../mainwindow.ui" line="1415"/>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.ui" line="1418"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.ui" line="1423"/>
         <source>Lock</source>
         <translation type="unfinished">잠금</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1416"/>
+        <location filename="../mainwindow.ui" line="1426"/>
         <source>Lock objects on map to avoid unnecessary changes</source>
         <translation type="unfinished">불필요한 변경을 방지하기 위해 맵의 오브젝트를 잠급니다</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1419"/>
+        <location filename="../mainwindow.ui" line="1429"/>
         <source>Ctrl+L</source>
         <translation type="unfinished">Ctrl+L</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1424"/>
+        <location filename="../mainwindow.ui" line="1434"/>
         <source>Unlock</source>
         <translation type="unfinished">잠금 해제</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1427"/>
+        <location filename="../mainwindow.ui" line="1437"/>
         <source>Unlock all objects on the map</source>
         <translation type="unfinished">맵의 모든 오브젝트의 잠금을 해제합니다</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1257"/>
-        <location filename="../mainwindow.ui" line="1430"/>
+        <location filename="../mainwindow.ui" line="1259"/>
+        <location filename="../mainwindow.ui" line="1440"/>
         <source>Ctrl+Shift+L</source>
         <translation type="unfinished">Ctrl+Shift+L</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1435"/>
+        <location filename="../mainwindow.ui" line="1445"/>
         <source>Zoom in</source>
         <translation type="unfinished">확대</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1438"/>
+        <location filename="../mainwindow.ui" line="1448"/>
         <source>Ctrl++</source>
         <translation type="unfinished">Ctrl++</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1443"/>
+        <location filename="../mainwindow.ui" line="1453"/>
         <source>Zoom out</source>
         <translation type="unfinished">축소</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1446"/>
+        <location filename="../mainwindow.ui" line="1456"/>
         <source>Ctrl+-</source>
         <translation type="unfinished">Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1451"/>
+        <location filename="../mainwindow.ui" line="1461"/>
         <source>Zoom reset</source>
         <translation type="unfinished">확대 초기화</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1454"/>
+        <location filename="../mainwindow.ui" line="1464"/>
         <source>Ctrl+Shift+=</source>
         <translation type="unfinished">Ctrl+Shift+=</translation>
     </message>
@@ -1262,7 +1282,7 @@ For the best experience, we recommend using the map editor on a tablet (or with 
         <translation type="unfinished">진영 선택</translation>
     </message>
     <message>
-        <location filename="../templateeditor/factionselector.cpp" line="24"/>
+        <location filename="../templateeditor/factionselector.cpp" line="26"/>
         <source>Faction Selector</source>
         <translation type="unfinished">진영 선택기</translation>
     </message>
@@ -1639,17 +1659,17 @@ Do you want to do that now ?</source>
         <translation type="unfinished">광산 선택</translation>
     </message>
     <message>
-        <location filename="../templateeditor/mineselector.cpp" line="28"/>
+        <location filename="../templateeditor/mineselector.cpp" line="30"/>
         <source>Mine Selector</source>
         <translation type="unfinished">광산 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/mineselector.cpp" line="34"/>
+        <location filename="../templateeditor/mineselector.cpp" line="36"/>
         <source>Resource</source>
         <translation>자원</translation>
     </message>
     <message>
-        <location filename="../templateeditor/mineselector.cpp" line="34"/>
+        <location filename="../templateeditor/mineselector.cpp" line="36"/>
         <source>Mines</source>
         <translation type="unfinished">광산</translation>
     </message>
@@ -1730,134 +1750,134 @@ Do you want to do that now ?</source>
         <translation type="unfinished">금지된 오브젝트 범주</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="33"/>
+        <location filename="../templateeditor/objectselector.cpp" line="34"/>
         <source>Object Selector</source>
         <translation type="unfinished">오브젝트 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="96"/>
+        <location filename="../templateeditor/objectselector.cpp" line="97"/>
         <source>Category</source>
         <translation type="unfinished">범주</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="96"/>
-        <location filename="../templateeditor/objectselector.cpp" line="164"/>
-        <location filename="../templateeditor/objectselector.cpp" line="226"/>
-        <location filename="../templateeditor/objectselector.cpp" line="310"/>
+        <location filename="../templateeditor/objectselector.cpp" line="97"/>
+        <location filename="../templateeditor/objectselector.cpp" line="165"/>
+        <location filename="../templateeditor/objectselector.cpp" line="227"/>
+        <location filename="../templateeditor/objectselector.cpp" line="311"/>
         <source>Action</source>
         <translation type="unfinished">동작</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="100"/>
+        <location filename="../templateeditor/objectselector.cpp" line="101"/>
         <source>Other</source>
         <translation type="unfinished">기타</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="101"/>
+        <location filename="../templateeditor/objectselector.cpp" line="102"/>
         <source>All</source>
         <translation>전체</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="102"/>
-        <location filename="../templateeditor/objectselector.cpp" line="257"/>
+        <location filename="../templateeditor/objectselector.cpp" line="103"/>
+        <location filename="../templateeditor/objectselector.cpp" line="258"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="103"/>
+        <location filename="../templateeditor/objectselector.cpp" line="104"/>
         <source>Creature bank</source>
         <translation type="unfinished">크리처 은행</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="104"/>
+        <location filename="../templateeditor/objectselector.cpp" line="105"/>
         <source>Bonus</source>
         <translation>보너스</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="105"/>
+        <location filename="../templateeditor/objectselector.cpp" line="106"/>
         <source>Dwelling</source>
         <translation type="unfinished">주거지</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="106"/>
+        <location filename="../templateeditor/objectselector.cpp" line="107"/>
         <source>Resource</source>
         <translation>자원</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="107"/>
+        <location filename="../templateeditor/objectselector.cpp" line="108"/>
         <source>Resource generator</source>
         <translation type="unfinished">자원 생성기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="108"/>
+        <location filename="../templateeditor/objectselector.cpp" line="109"/>
         <source>Spell scroll</source>
         <translation>주문서</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="109"/>
+        <location filename="../templateeditor/objectselector.cpp" line="110"/>
         <source>Random artifact</source>
         <translation type="unfinished">무작위 유물</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="110"/>
+        <location filename="../templateeditor/objectselector.cpp" line="111"/>
         <source>Pandoras box</source>
         <translation type="unfinished">판도라의 상자</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="111"/>
+        <location filename="../templateeditor/objectselector.cpp" line="112"/>
         <source>Quest artifact</source>
         <translation type="unfinished">퀘스트 유물</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="112"/>
+        <location filename="../templateeditor/objectselector.cpp" line="113"/>
         <source>Seer hut</source>
         <translation type="unfinished">예언자의 오두막</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="124"/>
-        <location filename="../templateeditor/objectselector.cpp" line="184"/>
-        <location filename="../templateeditor/objectselector.cpp" line="261"/>
-        <location filename="../templateeditor/objectselector.cpp" line="345"/>
+        <location filename="../templateeditor/objectselector.cpp" line="125"/>
+        <location filename="../templateeditor/objectselector.cpp" line="185"/>
+        <location filename="../templateeditor/objectselector.cpp" line="262"/>
+        <location filename="../templateeditor/objectselector.cpp" line="346"/>
         <source>Delete</source>
         <translation type="unfinished">삭제</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="139"/>
-        <location filename="../templateeditor/objectselector.cpp" line="199"/>
-        <location filename="../templateeditor/objectselector.cpp" line="278"/>
-        <location filename="../templateeditor/objectselector.cpp" line="360"/>
+        <location filename="../templateeditor/objectselector.cpp" line="140"/>
+        <location filename="../templateeditor/objectselector.cpp" line="200"/>
+        <location filename="../templateeditor/objectselector.cpp" line="279"/>
+        <location filename="../templateeditor/objectselector.cpp" line="361"/>
         <source>Add</source>
         <translation type="unfinished">추가</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="164"/>
-        <location filename="../templateeditor/objectselector.cpp" line="226"/>
-        <location filename="../templateeditor/objectselector.cpp" line="310"/>
+        <location filename="../templateeditor/objectselector.cpp" line="165"/>
+        <location filename="../templateeditor/objectselector.cpp" line="227"/>
+        <location filename="../templateeditor/objectselector.cpp" line="311"/>
         <source>Object</source>
         <translation type="unfinished">오브젝트</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="226"/>
+        <location filename="../templateeditor/objectselector.cpp" line="227"/>
         <source>Count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="226"/>
+        <location filename="../templateeditor/objectselector.cpp" line="227"/>
         <source>Guard</source>
         <translation type="unfinished">수비대</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="310"/>
+        <location filename="../templateeditor/objectselector.cpp" line="311"/>
         <source>Value</source>
         <translation>값</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="310"/>
+        <location filename="../templateeditor/objectselector.cpp" line="311"/>
         <source>Probability</source>
         <translation type="unfinished">확률</translation>
     </message>
     <message>
-        <location filename="../templateeditor/objectselector.cpp" line="310"/>
+        <location filename="../templateeditor/objectselector.cpp" line="311"/>
         <source>Max per zone</source>
         <translation type="unfinished">존당 최대 수</translation>
     </message>
@@ -1923,22 +1943,22 @@ Do you want to do that now ?</source>
 <context>
     <name>PlayerSelectionDialog</name>
     <message>
-        <location filename="../PlayerSelectionDialog.cpp" line="45"/>
+        <location filename="../PlayerSelectionDialog.cpp" line="46"/>
         <source>Select Player</source>
         <translation type="unfinished">플레이어 선택</translation>
     </message>
     <message>
-        <location filename="../PlayerSelectionDialog.cpp" line="54"/>
+        <location filename="../PlayerSelectionDialog.cpp" line="55"/>
         <source>Hero cannot be created as NEUTRAL</source>
         <translation type="unfinished">영웅은 중립으로 생성할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../PlayerSelectionDialog.cpp" line="60"/>
+        <location filename="../PlayerSelectionDialog.cpp" line="61"/>
         <source>Switch to one of the available players:</source>
         <translation type="unfinished">사용 가능한 플레이어 중 하나로 전환하세요:</translation>
     </message>
     <message>
-        <location filename="../PlayerSelectionDialog.cpp" line="89"/>
+        <location filename="../PlayerSelectionDialog.cpp" line="90"/>
         <source>Shortcut: %1</source>
         <translation type="unfinished">단축키: %1</translation>
     </message>
@@ -1996,32 +2016,32 @@ Do you want to do that now ?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../inspector/heroskillswidget.cpp" line="22"/>
+        <location filename="../inspector/heroskillswidget.cpp" line="23"/>
         <source>Beginner</source>
         <translation type="unfinished">초보자</translation>
     </message>
     <message>
-        <location filename="../inspector/heroskillswidget.cpp" line="23"/>
+        <location filename="../inspector/heroskillswidget.cpp" line="24"/>
         <source>Advanced</source>
         <translation type="unfinished">숙련자</translation>
     </message>
     <message>
-        <location filename="../inspector/heroskillswidget.cpp" line="24"/>
+        <location filename="../inspector/heroskillswidget.cpp" line="25"/>
         <source>Expert</source>
         <translation type="unfinished">전문가</translation>
     </message>
     <message>
-        <location filename="../inspector/heroskillswidget.cpp" line="170"/>
+        <location filename="../inspector/heroskillswidget.cpp" line="172"/>
         <source>Default secondary skills:</source>
         <translation type="unfinished">기본 보조 기술:</translation>
     </message>
     <message>
-        <location filename="../inspector/heroskillswidget.cpp" line="175"/>
+        <location filename="../inspector/heroskillswidget.cpp" line="177"/>
         <source>Random hero secondary skills</source>
         <translation type="unfinished">영웅 보조 기술 무작위</translation>
     </message>
     <message>
-        <location filename="../inspector/heroskillswidget.cpp" line="181"/>
+        <location filename="../inspector/heroskillswidget.cpp" line="183"/>
         <source>Secondary skills:</source>
         <translation type="unfinished">보조 기술:</translation>
     </message>
@@ -2419,20 +2439,20 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
 맵 -&gt; 일반 설정에서 해당 모드를 필수 모드로 추가하세요.</translation>
     </message>
     <message>
-        <location filename="../inspector/herospellwidget.cpp" line="217"/>
-        <location filename="../inspector/townspellswidget.cpp" line="178"/>
+        <location filename="../inspector/herospellwidget.cpp" line="219"/>
+        <location filename="../inspector/townspellswidget.cpp" line="180"/>
         <source>Custom Spells:</source>
         <translation type="unfinished">사용자 지정 주문:</translation>
     </message>
     <message>
-        <location filename="../inspector/herospellwidget.cpp" line="226"/>
-        <location filename="../inspector/townspellswidget.cpp" line="198"/>
+        <location filename="../inspector/herospellwidget.cpp" line="228"/>
+        <location filename="../inspector/townspellswidget.cpp" line="200"/>
         <source>Default Spells</source>
         <translation type="unfinished">기본 주문</translation>
     </message>
     <message>
         <location filename="../inspector/abilitieswidget.cpp" line="217"/>
-        <location filename="../inspector/portraitwidget.cpp" line="151"/>
+        <location filename="../inspector/portraitwidget.cpp" line="153"/>
         <source>Default</source>
         <translation type="unfinished">기본값</translation>
     </message>
@@ -2442,151 +2462,151 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation type="unfinished">사용자 정의</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="448"/>
+        <location filename="../inspector/questwidget.cpp" line="450"/>
         <source>Quest:</source>
         <translation type="unfinished">퀘스트:</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="449"/>
+        <location filename="../inspector/questwidget.cpp" line="451"/>
         <source>Day of Week: %1</source>
         <translation type="unfinished">요일: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="450"/>
+        <location filename="../inspector/questwidget.cpp" line="452"/>
         <source>Days Passed: %1</source>
         <translation type="unfinished">경과 일수: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="451"/>
-        <location filename="../inspector/rewardswidget.cpp" line="793"/>
+        <location filename="../inspector/questwidget.cpp" line="453"/>
+        <location filename="../inspector/rewardswidget.cpp" line="794"/>
         <source>Hero Level: %1</source>
         <translation type="unfinished">영웅 레벨: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="452"/>
-        <location filename="../inspector/rewardswidget.cpp" line="794"/>
+        <location filename="../inspector/questwidget.cpp" line="454"/>
+        <location filename="../inspector/rewardswidget.cpp" line="795"/>
         <source>Hero Experience: %1</source>
         <translation type="unfinished">영웅 경험치: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="453"/>
+        <location filename="../inspector/questwidget.cpp" line="455"/>
         <source>Mana Points: %1</source>
         <translation type="unfinished">마나 포인트: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="454"/>
-        <location filename="../inspector/rewardswidget.cpp" line="796"/>
+        <location filename="../inspector/questwidget.cpp" line="456"/>
+        <location filename="../inspector/rewardswidget.cpp" line="797"/>
         <source>Mana Percentage: %1</source>
         <translation type="unfinished">마나 비율: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="455"/>
-        <location filename="../inspector/rewardswidget.cpp" line="799"/>
+        <location filename="../inspector/questwidget.cpp" line="457"/>
+        <location filename="../inspector/rewardswidget.cpp" line="800"/>
         <source>Primary Skills: %1/%2/%3/%4</source>
         <translation type="unfinished">기본 기술: %1/%2/%3/%4</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="466"/>
-        <location filename="../inspector/rewardswidget.cpp" line="809"/>
+        <location filename="../inspector/questwidget.cpp" line="468"/>
+        <location filename="../inspector/rewardswidget.cpp" line="810"/>
         <source>Resources: %1</source>
         <translation type="unfinished">자원: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="473"/>
-        <location filename="../inspector/rewardswidget.cpp" line="815"/>
+        <location filename="../inspector/questwidget.cpp" line="475"/>
+        <location filename="../inspector/rewardswidget.cpp" line="816"/>
         <source>Artifacts: %1</source>
         <translation type="unfinished">아티팩트: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="480"/>
-        <location filename="../inspector/rewardswidget.cpp" line="821"/>
+        <location filename="../inspector/questwidget.cpp" line="482"/>
+        <location filename="../inspector/rewardswidget.cpp" line="822"/>
         <source>Spells: %1</source>
         <translation type="unfinished">주문: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="487"/>
-        <location filename="../inspector/rewardswidget.cpp" line="827"/>
+        <location filename="../inspector/questwidget.cpp" line="489"/>
+        <location filename="../inspector/rewardswidget.cpp" line="828"/>
         <source>Secondary Skills: %1</source>
         <translation type="unfinished">보조 기술: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="494"/>
-        <location filename="../inspector/rewardswidget.cpp" line="833"/>
+        <location filename="../inspector/questwidget.cpp" line="496"/>
+        <location filename="../inspector/rewardswidget.cpp" line="834"/>
         <source>Creatures: %1</source>
         <translation type="unfinished">생물: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="501"/>
+        <location filename="../inspector/questwidget.cpp" line="503"/>
         <source>Heroes: %1</source>
         <translation type="unfinished">영웅: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="508"/>
+        <location filename="../inspector/questwidget.cpp" line="510"/>
         <source>Hero Classes: %1</source>
         <translation type="unfinished">영웅 클래스: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="517"/>
+        <location filename="../inspector/questwidget.cpp" line="519"/>
         <source>Players: %1</source>
         <translation type="unfinished">플레이어: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="789"/>
+        <location filename="../inspector/rewardswidget.cpp" line="790"/>
         <source>Rewards:</source>
         <translation type="unfinished">보상:</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="792"/>
+        <location filename="../inspector/rewardswidget.cpp" line="793"/>
         <source>Reward Message: %1</source>
         <translation type="unfinished">보상 메시지: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="795"/>
+        <location filename="../inspector/rewardswidget.cpp" line="796"/>
         <source>Mana Diff: %1</source>
         <translation type="unfinished">마나 차이: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="797"/>
+        <location filename="../inspector/rewardswidget.cpp" line="798"/>
         <source>Move Points: %1</source>
         <translation type="unfinished">이동 포인트: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="798"/>
+        <location filename="../inspector/rewardswidget.cpp" line="799"/>
         <source>Move Percentage: %1</source>
         <translation type="unfinished">이동 비율: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="836"/>
+        <location filename="../inspector/rewardswidget.cpp" line="837"/>
         <source>Spell Cast: %1 (%2)</source>
         <translation type="unfinished">시전 주문: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="844"/>
+        <location filename="../inspector/rewardswidget.cpp" line="845"/>
         <source>Bonuses: %1</source>
         <translation type="unfinished">보너스: %1</translation>
     </message>
     <message>
-        <location filename="../inspector/townbuildingswidget.cpp" line="363"/>
+        <location filename="../inspector/townbuildingswidget.cpp" line="365"/>
         <source>Built buildings:</source>
         <translation type="unfinished">건설된 건물:</translation>
     </message>
     <message>
-        <location filename="../inspector/townbuildingswidget.cpp" line="374"/>
+        <location filename="../inspector/townbuildingswidget.cpp" line="376"/>
         <source>Forbidden buildings:</source>
         <translation type="unfinished">금지된 건물:</translation>
     </message>
     <message>
-        <location filename="../inspector/towneventswidget.cpp" line="183"/>
+        <location filename="../inspector/towneventswidget.cpp" line="185"/>
         <source>Town Events:</source>
         <translation type="unfinished">도시 이벤트:</translation>
     </message>
     <message>
-        <location filename="../inspector/townspellswidget.cpp" line="179"/>
+        <location filename="../inspector/townspellswidget.cpp" line="181"/>
         <source>Required:</source>
         <translation type="unfinished">필수:</translation>
     </message>
     <message>
-        <location filename="../inspector/townspellswidget.cpp" line="186"/>
+        <location filename="../inspector/townspellswidget.cpp" line="188"/>
         <source>Possible:</source>
         <translation type="unfinished">가능:</translation>
     </message>
@@ -2615,6 +2635,11 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <message>
         <location filename="../androidfilepicker.cpp" line="97"/>
         <source>Where do you want to save the file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../helper.cpp" line="95"/>
+        <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2741,12 +2766,12 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation type="unfinished">플레이어</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="40"/>
+        <location filename="../inspector/questwidget.cpp" line="42"/>
         <source>None</source>
         <translation type="unfinished">없음</translation>
     </message>
     <message>
-        <location filename="../inspector/questwidget.cpp" line="42"/>
+        <location filename="../inspector/questwidget.cpp" line="44"/>
         <source>Day %1</source>
         <translation type="unfinished">Day %1</translation>
     </message>
@@ -3024,18 +3049,18 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation type="unfinished">플레이어</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="55"/>
+        <location filename="../inspector/rewardswidget.cpp" line="56"/>
         <source>None</source>
         <translation type="unfinished">없음</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="57"/>
+        <location filename="../inspector/rewardswidget.cpp" line="58"/>
         <source>Day %1</source>
         <translation type="unfinished">Day %1</translation>
     </message>
     <message>
-        <location filename="../inspector/rewardswidget.cpp" line="250"/>
-        <location filename="../inspector/rewardswidget.cpp" line="623"/>
+        <location filename="../inspector/rewardswidget.cpp" line="251"/>
+        <location filename="../inspector/rewardswidget.cpp" line="624"/>
         <source>Reward %1</source>
         <translation type="unfinished">보상 %1</translation>
     </message>
@@ -3072,7 +3097,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <name>ScenarioProperties</name>
     <message>
         <location filename="../campaigneditor/scenarioproperties.ui" line="14"/>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="37"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="39"/>
         <source>Scenario Properties</source>
         <translation type="unfinished">시나리오 속성</translation>
     </message>
@@ -3267,8 +3292,8 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../campaigneditor/scenarioproperties.ui" line="545"/>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="474"/>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="484"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="476"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="486"/>
         <source>Player position</source>
         <translation type="unfinished">플레이어 위치</translation>
     </message>
@@ -3293,74 +3318,74 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation type="unfinished">편집...</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="123"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="125"/>
         <source>Strongest</source>
         <translation type="unfinished">최강</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="124"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="126"/>
         <source>Generated</source>
         <translation type="unfinished">생성됨</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="125"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="127"/>
         <source>Random</source>
         <translation type="unfinished">무작위</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="142"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="144"/>
         <source>No map</source>
         <translation type="unfinished">맵 없음</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="185"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="187"/>
         <source>Player</source>
         <translation type="unfinished">플레이어</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="393"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="395"/>
         <source>Open map</source>
         <translation type="unfinished">맵 열기</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="395"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="397"/>
         <source>All supported maps (*.vmap *.h3m);;VCMI maps(*.vmap);;HoMM3 maps(*.h3m)</source>
         <translation type="unfinished">모든 지원되는 맵 (*.vmap *.h3m);;VCMI 맵(*.vmap);;HoMM3 맵(*.h3m)</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="404"/>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="443"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="406"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="445"/>
         <source>Error</source>
         <translation type="unfinished">오류</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="404"/>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="443"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="406"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="445"/>
         <source>Could not open the file.</source>
         <translation type="unfinished">파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="431"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="433"/>
         <source>Save map</source>
         <translation type="unfinished">맵 저장</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="433"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="435"/>
         <source>VCMI maps (*.vmap);</source>
         <translation type="unfinished">VCMI 맵 (*.vmap);</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="433"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="435"/>
         <source>HoMM3 maps (*.h3m);</source>
         <translation type="unfinished">HoMM3 맵 (*.h3m);</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="474"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="476"/>
         <source>Source scenario</source>
         <translation type="unfinished">출처 시나리오</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/scenarioproperties.cpp" line="484"/>
+        <location filename="../campaigneditor/scenarioproperties.cpp" line="486"/>
         <source>Hero</source>
         <translation type="unfinished">영웅</translation>
     </message>
@@ -3395,7 +3420,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <location filename="../campaigneditor/startingbonus.ui" line="41"/>
         <location filename="../campaigneditor/startingbonus.ui" line="184"/>
         <location filename="../campaigneditor/startingbonus.ui" line="190"/>
-        <location filename="../campaigneditor/startingbonus.cpp" line="363"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="364"/>
         <source>Building</source>
         <translation type="unfinished">건물</translation>
     </message>
@@ -3422,14 +3447,14 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <location filename="../campaigneditor/startingbonus.ui" line="69"/>
         <location filename="../campaigneditor/startingbonus.ui" line="364"/>
         <location filename="../campaigneditor/startingbonus.ui" line="380"/>
-        <location filename="../campaigneditor/startingbonus.cpp" line="387"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="388"/>
         <source>Secondary skill</source>
         <translation type="unfinished">보조 기술</translation>
     </message>
     <message>
         <location filename="../campaigneditor/startingbonus.ui" line="76"/>
         <location filename="../campaigneditor/startingbonus.ui" line="414"/>
-        <location filename="../campaigneditor/startingbonus.cpp" line="391"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="392"/>
         <source>Resource</source>
         <translation type="unfinished">자원</translation>
     </message>
@@ -3485,82 +3510,82 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation type="unfinished">자원 유형</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="34"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="35"/>
         <source>Edit Starting Bonus</source>
         <translation type="unfinished">시작 보너스 편집</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="62"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="63"/>
         <source>Strongest</source>
         <translation type="unfinished">최강</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="63"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="64"/>
         <source>Generated</source>
         <translation type="unfinished">생성됨</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="64"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="65"/>
         <source>Random</source>
         <translation type="unfinished">무작위</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="95"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="96"/>
         <source>Main town is of random faction</source>
         <translation type="unfinished">주요 도시는 무작위 진영입니다</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="107"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="108"/>
         <source>Player does not have a main town!</source>
         <translation type="unfinished">플레이어에게 주요 도시가 없습니다!</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="132"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="133"/>
         <source>Common (%1 and %2)</source>
         <translation type="unfinished">일반 (%1 및 %2)</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="137"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="138"/>
         <source>Rare (%1, %2, %3, %4)</source>
         <translation type="unfinished">희귀 (%1, %2, %3, %4)</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="319"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="320"/>
         <source>strongest hero</source>
         <translation type="unfinished">최강 영웅</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="321"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="322"/>
         <source>generated hero</source>
         <translation type="unfinished">생성된 영웅</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="323"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="324"/>
         <source>random hero</source>
         <translation type="unfinished">무작위 영웅</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="354"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="355"/>
         <source>%1 spell for %2</source>
         <translation type="unfinished">%2를 위한 %1 주문</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="359"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="360"/>
         <source>%1 %2 for %3</source>
         <translation type="unfinished">%3를 위한 %1 %2</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="368"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="369"/>
         <source>%1 artifact for %2</source>
         <translation type="unfinished">%2를 위한 %1 아티팩트</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="373"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="374"/>
         <source>%1 spell scroll for %2</source>
         <translation type="unfinished">%2를 위한 %1 주문서</translation>
     </message>
     <message>
-        <location filename="../campaigneditor/startingbonus.cpp" line="378"/>
+        <location filename="../campaigneditor/startingbonus.cpp" line="379"/>
         <source>Primary skill (Attack: %1, Defense: %2, Spell: %3, Knowledge: %4) for %5</source>
         <translation type="unfinished">%5를 위한 기본 기술 (공격: %1, 방어: %2, 주문력: %3, 지식: %4)</translation>
     </message>
@@ -3579,423 +3604,433 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="45"/>
+        <location filename="../templateeditor/templateeditor.ui" line="47"/>
         <source>Edit</source>
         <translation>편집</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="53"/>
+        <location filename="../templateeditor/templateeditor.ui" line="55"/>
         <source>View</source>
         <translation>보기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="68"/>
+        <location filename="../templateeditor/templateeditor.ui" line="70"/>
         <source>Toolbar</source>
         <translation>도구 모음</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="114"/>
+        <location filename="../templateeditor/templateeditor.ui" line="116"/>
         <source>Selected Template:</source>
         <translation type="unfinished">선택된 템플릿:</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="137"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1325"/>
+        <location filename="../templateeditor/templateeditor.ui" line="139"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1327"/>
         <location filename="../templateeditor/templateeditor.cpp" line="281"/>
         <source>Add</source>
         <translation>추가</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="144"/>
+        <location filename="../templateeditor/templateeditor.ui" line="146"/>
         <source>Remove</source>
         <translation>제거</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="151"/>
+        <location filename="../templateeditor/templateeditor.ui" line="153"/>
         <source>Rename</source>
         <translation type="unfinished">이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="215"/>
+        <location filename="../templateeditor/templateeditor.ui" line="217"/>
         <source>General</source>
         <translation>일반</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="221"/>
+        <location filename="../templateeditor/templateeditor.ui" line="223"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="233"/>
+        <location filename="../templateeditor/templateeditor.ui" line="235"/>
         <source>Description</source>
         <translation type="unfinished">설명</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="245"/>
+        <location filename="../templateeditor/templateeditor.ui" line="247"/>
         <source>Min Size</source>
         <translation type="unfinished">최소 크기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="264"/>
-        <location filename="../templateeditor/templateeditor.ui" line="363"/>
-        <location filename="../templateeditor/templateeditor.ui" line="585"/>
+        <location filename="../templateeditor/templateeditor.ui" line="266"/>
+        <location filename="../templateeditor/templateeditor.ui" line="365"/>
+        <location filename="../templateeditor/templateeditor.ui" line="587"/>
         <source>X</source>
         <translation type="unfinished">X</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="294"/>
-        <location filename="../templateeditor/templateeditor.ui" line="393"/>
-        <location filename="../templateeditor/templateeditor.ui" line="615"/>
+        <location filename="../templateeditor/templateeditor.ui" line="296"/>
+        <location filename="../templateeditor/templateeditor.ui" line="395"/>
+        <location filename="../templateeditor/templateeditor.ui" line="617"/>
         <source>Y</source>
         <translation type="unfinished">Y</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="324"/>
-        <location filename="../templateeditor/templateeditor.ui" line="423"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1378"/>
+        <location filename="../templateeditor/templateeditor.ui" line="326"/>
+        <location filename="../templateeditor/templateeditor.ui" line="425"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1380"/>
         <source>Z</source>
         <translation type="unfinished">Z</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="344"/>
+        <location filename="../templateeditor/templateeditor.ui" line="346"/>
         <source>Max Size</source>
         <translation type="unfinished">최대 크기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="443"/>
-        <location filename="../templateeditor/templateeditor.ui" line="449"/>
+        <location filename="../templateeditor/templateeditor.ui" line="445"/>
+        <location filename="../templateeditor/templateeditor.ui" line="451"/>
         <source>Players</source>
         <translation>플레이어</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="459"/>
+        <location filename="../templateeditor/templateeditor.ui" line="461"/>
         <source>Human</source>
         <translation type="unfinished">인간</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="472"/>
+        <location filename="../templateeditor/templateeditor.ui" line="474"/>
         <source>Allowed water content</source>
         <translation type="unfinished">허용 수역량</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="478"/>
+        <location filename="../templateeditor/templateeditor.ui" line="480"/>
         <location filename="../templateeditor/templateeditor.cpp" line="419"/>
         <location filename="../templateeditor/templateeditor.cpp" line="432"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="485"/>
+        <location filename="../templateeditor/templateeditor.ui" line="487"/>
         <location filename="../templateeditor/templateeditor.cpp" line="435"/>
         <source>Normal</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="492"/>
+        <location filename="../templateeditor/templateeditor.ui" line="494"/>
         <source>Islands</source>
         <translation>섬</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="502"/>
+        <location filename="../templateeditor/templateeditor.ui" line="504"/>
         <source>Entities</source>
         <translation type="unfinished">엔티티</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="508"/>
+        <location filename="../templateeditor/templateeditor.ui" line="510"/>
         <source>Banned Spells</source>
         <translation type="unfinished">금지 마법</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="515"/>
+        <location filename="../templateeditor/templateeditor.ui" line="517"/>
         <source>Banned Artifacts</source>
         <translation type="unfinished">금지 유물</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="522"/>
+        <location filename="../templateeditor/templateeditor.ui" line="524"/>
         <source>Banned Skills</source>
         <translation type="unfinished">금지 기술</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="529"/>
+        <location filename="../templateeditor/templateeditor.ui" line="531"/>
         <source>Banned Heroes</source>
         <translation type="unfinished">금지 영웅</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="561"/>
+        <location filename="../templateeditor/templateeditor.ui" line="563"/>
         <source>Zone</source>
         <translation type="unfinished">존</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="567"/>
+        <location filename="../templateeditor/templateeditor.ui" line="569"/>
         <source>Visualisation</source>
         <translation type="unfinished">시각화</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="573"/>
+        <location filename="../templateeditor/templateeditor.ui" line="575"/>
         <source>Position</source>
         <translation type="unfinished">위치</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="645"/>
-        <location filename="../templateeditor/templateeditor.ui" line="701"/>
+        <location filename="../templateeditor/templateeditor.ui" line="647"/>
+        <location filename="../templateeditor/templateeditor.ui" line="703"/>
         <source>Size</source>
         <translation type="unfinished">크기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="673"/>
+        <location filename="../templateeditor/templateeditor.ui" line="675"/>
         <source>ID</source>
         <translation>ID</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="689"/>
+        <location filename="../templateeditor/templateeditor.ui" line="691"/>
         <location filename="../templateeditor/templateeditor.cpp" line="453"/>
         <source>Type</source>
         <translation type="unfinished">유형</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="717"/>
+        <location filename="../templateeditor/templateeditor.ui" line="719"/>
         <source>Owner</source>
         <translation>소유자</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="729"/>
+        <location filename="../templateeditor/templateeditor.ui" line="731"/>
         <source>Forced level</source>
         <translation type="unfinished">강제 레벨</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="741"/>
+        <location filename="../templateeditor/templateeditor.ui" line="743"/>
         <source>Zone link</source>
         <translation type="unfinished">존 연결</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="747"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1245"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1251"/>
+        <location filename="../templateeditor/templateeditor.ui" line="749"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1247"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1253"/>
         <source>Mines</source>
         <translation type="unfinished">광산</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="754"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1267"/>
+        <location filename="../templateeditor/templateeditor.ui" line="756"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1269"/>
         <source>Custom objects</source>
         <translation type="unfinished">사용자 지정 오브젝트</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="761"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1139"/>
+        <location filename="../templateeditor/templateeditor.ui" line="763"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1141"/>
         <source>Towns</source>
         <translation type="unfinished">타운</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="768"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1109"/>
+        <location filename="../templateeditor/templateeditor.ui" line="770"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1111"/>
         <source>Terrain</source>
         <translation type="unfinished">지형</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="785"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1229"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1235"/>
+        <location filename="../templateeditor/templateeditor.ui" line="787"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1231"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1237"/>
         <location filename="../templateeditor/templateeditor.cpp" line="394"/>
         <source>Treasure</source>
         <translation type="unfinished">보물</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="848"/>
+        <location filename="../templateeditor/templateeditor.ui" line="850"/>
         <source>Town info</source>
         <translation type="unfinished">타운 정보</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="854"/>
+        <location filename="../templateeditor/templateeditor.ui" line="856"/>
         <source>Town count</source>
         <translation type="unfinished">타운 수</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="866"/>
-        <location filename="../templateeditor/templateeditor.ui" line="929"/>
-        <location filename="../templateeditor/templateeditor.ui" line="992"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1055"/>
+        <location filename="../templateeditor/templateeditor.ui" line="868"/>
+        <location filename="../templateeditor/templateeditor.ui" line="931"/>
+        <location filename="../templateeditor/templateeditor.ui" line="994"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1057"/>
         <source>Player</source>
         <translation>플레이어</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="892"/>
-        <location filename="../templateeditor/templateeditor.ui" line="955"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1018"/>
-        <location filename="../templateeditor/templateeditor.ui" line="1081"/>
+        <location filename="../templateeditor/templateeditor.ui" line="894"/>
+        <location filename="../templateeditor/templateeditor.ui" line="957"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1020"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1083"/>
         <source>Neutral</source>
         <translation>중립</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="917"/>
+        <location filename="../templateeditor/templateeditor.ui" line="919"/>
         <source>Castle count</source>
         <translation type="unfinished">성 수</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="980"/>
+        <location filename="../templateeditor/templateeditor.ui" line="982"/>
         <source>Town density</source>
         <translation type="unfinished">타운 밀도</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1043"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1045"/>
         <source>Castle density</source>
         <translation type="unfinished">성 밀도</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1115"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1117"/>
         <source>Match terrain to town</source>
         <translation type="unfinished">지형을 타운에 맞춤</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1122"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1124"/>
         <source>Terrain types</source>
         <translation type="unfinished">지형 종류</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1129"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1131"/>
         <source>Banned terrain types</source>
         <translation type="unfinished">금지된 지형 종류</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1145"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1147"/>
         <source>Towns are same type</source>
         <translation type="unfinished">동일 종류의 타운</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1152"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1154"/>
         <source>Allowed towns</source>
         <translation type="unfinished">허용된 타운</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1159"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1161"/>
         <source>Banned towns</source>
         <translation type="unfinished">금지된 타운</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1166"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1168"/>
         <source>Town hints</source>
         <translation type="unfinished">타운 힌트</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1176"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1178"/>
         <source>Monsters</source>
         <translation type="unfinished">몬스터</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1182"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1184"/>
         <source>Allowed monsters</source>
         <translation type="unfinished">허용된 몬스터</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1189"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1191"/>
         <source>Banned monsters</source>
         <translation type="unfinished">금지된 몬스터</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1207"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1209"/>
         <source>Strength</source>
         <translation type="unfinished">강도</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1261"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1263"/>
         <source>Objects</source>
         <translation type="unfinished">오브젝트</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1299"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1301"/>
         <source>Connections</source>
         <translation type="unfinished">연결</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1343"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1345"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1351"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1353"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1359"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1361"/>
         <source>New</source>
         <translation>새로 만들기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1367"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1369"/>
         <source>Save as...</source>
         <translation>다른 이름으로 저장...</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1370"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1372"/>
         <source>Ctrl+Shift+S</source>
         <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1375"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1377"/>
         <source>Add zone</source>
         <translation type="unfinished">존 추가</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1386"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1388"/>
         <source>Remove zone</source>
         <translation type="unfinished">존 제거</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1389"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1391"/>
         <location filename="../templateeditor/templateeditor.cpp" line="484"/>
         <source>Del</source>
         <translation type="unfinished">삭제</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1394"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1396"/>
         <source>Auto position</source>
         <translation type="unfinished">자동 배치</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1397"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1399"/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1402"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1404"/>
         <source>Zoom in</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1405"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1407"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1410"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1412"/>
         <source>Zoom out</source>
         <translation>축소</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1413"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1415"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1418"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1420"/>
         <source>Zoom auto</source>
         <translation type="unfinished">자동 줌</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1421"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1423"/>
         <source>Ctrl+Shift+:</source>
         <translation type="unfinished">Ctrl+Shift+:</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1426"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1428"/>
         <source>Zoom reset</source>
         <translation>확대 초기화</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.ui" line="1429"/>
+        <location filename="../templateeditor/templateeditor.ui" line="1431"/>
         <source>Ctrl+Shift+=</source>
         <translation>Ctrl+Shift+=</translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.ui" line="1436"/>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.ui" line="1439"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.cpp" line="252"/>
@@ -4362,17 +4397,17 @@ Guard: %3</source>
         <translation type="unfinished">모두 비활성화</translation>
     </message>
     <message>
-        <location filename="../inspector/townbuildingswidget.cpp" line="132"/>
+        <location filename="../inspector/townbuildingswidget.cpp" line="134"/>
         <source>Type</source>
         <translation type="unfinished">종류</translation>
     </message>
     <message>
-        <location filename="../inspector/townbuildingswidget.cpp" line="132"/>
+        <location filename="../inspector/townbuildingswidget.cpp" line="134"/>
         <source>Enabled</source>
         <translation type="unfinished">활성화됨</translation>
     </message>
     <message>
-        <location filename="../inspector/townbuildingswidget.cpp" line="132"/>
+        <location filename="../inspector/townbuildingswidget.cpp" line="134"/>
         <source>Built</source>
         <translation type="unfinished">건설됨</translation>
     </message>
@@ -4445,12 +4480,12 @@ Guard: %3</source>
         <translation type="unfinished">확인</translation>
     </message>
     <message>
-        <location filename="../inspector/towneventdialog.cpp" line="172"/>
+        <location filename="../inspector/towneventdialog.cpp" line="174"/>
         <source>Creature level %1 / Creature level %1 Upgrade</source>
         <translation type="unfinished">생물 레벨 %1 / 생물 레벨 %1 업그레이드</translation>
     </message>
     <message>
-        <location filename="../inspector/towneventdialog.cpp" line="214"/>
+        <location filename="../inspector/towneventdialog.cpp" line="216"/>
         <source>Day %1 - %2</source>
         <translation type="unfinished">일 %1 - %2</translation>
     </message>
@@ -4458,7 +4493,7 @@ Guard: %3</source>
 <context>
     <name>TownEventsDelegate</name>
     <message>
-        <location filename="../inspector/towneventswidget.cpp" line="187"/>
+        <location filename="../inspector/towneventswidget.cpp" line="189"/>
         <source>Day %1 - %2</source>
         <translation type="unfinished">일 %1 - %2</translation>
     </message>
@@ -4486,12 +4521,12 @@ Guard: %3</source>
         <translation type="unfinished">제거</translation>
     </message>
     <message>
-        <location filename="../inspector/towneventswidget.cpp" line="107"/>
+        <location filename="../inspector/towneventswidget.cpp" line="109"/>
         <source>Day %1 - %2</source>
         <translation type="unfinished">일 %1 - %2</translation>
     </message>
     <message>
-        <location filename="../inspector/towneventswidget.cpp" line="128"/>
+        <location filename="../inspector/towneventswidget.cpp" line="130"/>
         <source>New event</source>
         <translation type="unfinished">새 이벤트</translation>
     </message>
@@ -4509,47 +4544,47 @@ Guard: %3</source>
         <translation type="unfinished">타운 힌트</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="23"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="25"/>
         <source>Town hint Selector</source>
         <translation type="unfinished">타운 힌트 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="29"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="31"/>
         <source>Type</source>
         <translation type="unfinished">유형</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="29"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="31"/>
         <source>Value</source>
         <translation>값</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="29"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="31"/>
         <source>Action</source>
         <translation type="unfinished">동작</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="32"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="34"/>
         <source>Like Zone</source>
         <translation type="unfinished">존과 같음</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="33"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="35"/>
         <source>Not like zone (comma separated)</source>
         <translation type="unfinished">존과 다름(쉼표로 구분)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="34"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="36"/>
         <source>Related to zone terrain</source>
         <translation type="unfinished">존 지형과 연관</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="59"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="61"/>
         <source>Delete</source>
         <translation type="unfinished">삭제</translation>
     </message>
     <message>
-        <location filename="../templateeditor/townhintselector.cpp" line="98"/>
+        <location filename="../templateeditor/townhintselector.cpp" line="100"/>
         <source>Add</source>
         <translation type="unfinished">추가</translation>
     </message>
@@ -4638,18 +4673,18 @@ Guard: %3</source>
         <translation type="unfinished">텍스트</translation>
     </message>
     <message>
-        <location filename="../mapsettings/translations.cpp" line="177"/>
-        <location filename="../mapsettings/translations.cpp" line="181"/>
+        <location filename="../mapsettings/translations.cpp" line="178"/>
+        <location filename="../mapsettings/translations.cpp" line="182"/>
         <source>Remove translation</source>
         <translation type="unfinished">번역 제거</translation>
     </message>
     <message>
-        <location filename="../mapsettings/translations.cpp" line="177"/>
+        <location filename="../mapsettings/translations.cpp" line="178"/>
         <source>Default language cannot be removed</source>
         <translation type="unfinished">기본 언어는 제거할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../mapsettings/translations.cpp" line="181"/>
+        <location filename="../mapsettings/translations.cpp" line="182"/>
         <source>All existing text records for this language will be removed. Continue?</source>
         <translation type="unfinished">이 언어에 대한 모든 기존 텍스트 레코드가 제거됩니다. 계속하시겠습니까?</translation>
     </message>
@@ -4663,37 +4698,37 @@ Guard: %3</source>
         <translation type="unfinished">보물 선택</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="25"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="27"/>
         <source>Treasure Selector</source>
         <translation type="unfinished">보물 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="31"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="33"/>
         <source>Min</source>
         <translation type="unfinished">최소</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="31"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="33"/>
         <source>Max</source>
         <translation type="unfinished">최대</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="31"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="33"/>
         <source>Density</source>
         <translation type="unfinished">밀도</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="31"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="33"/>
         <source>Action</source>
         <translation type="unfinished">동작</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="49"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="51"/>
         <source>Delete</source>
         <translation type="unfinished">삭제</translation>
     </message>
     <message>
-        <location filename="../templateeditor/treasureselector.cpp" line="64"/>
+        <location filename="../templateeditor/treasureselector.cpp" line="66"/>
         <source>Add</source>
         <translation type="unfinished">추가</translation>
     </message>
@@ -4701,27 +4736,27 @@ Guard: %3</source>
 <context>
     <name>Ts</name>
     <message>
-        <location filename="../templateeditor/entitiesselector.cpp" line="76"/>
+        <location filename="../templateeditor/entitiesselector.cpp" line="77"/>
         <source>Terrain Selector</source>
         <translation type="unfinished">지형 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/entitiesselector.cpp" line="80"/>
+        <location filename="../templateeditor/entitiesselector.cpp" line="81"/>
         <source>Spell Selector</source>
         <translation type="unfinished">마법 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/entitiesselector.cpp" line="84"/>
+        <location filename="../templateeditor/entitiesselector.cpp" line="85"/>
         <source>Artifact Selector</source>
         <translation type="unfinished">유물 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/entitiesselector.cpp" line="88"/>
+        <location filename="../templateeditor/entitiesselector.cpp" line="89"/>
         <source>Skill Selector</source>
         <translation type="unfinished">기술 선택기</translation>
     </message>
     <message>
-        <location filename="../templateeditor/entitiesselector.cpp" line="92"/>
+        <location filename="../templateeditor/entitiesselector.cpp" line="93"/>
         <source>Hero Type Selector</source>
         <translation type="unfinished">영웅 유형 선택기</translation>
     </message>
@@ -4734,117 +4769,117 @@ Guard: %3</source>
         <translation type="unfinished">맵 유효성 검사 결과</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="50"/>
+        <location filename="../validator.cpp" line="51"/>
         <source>Map is not loaded</source>
         <translation type="unfinished">맵이 로드되지 않았습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="72"/>
+        <location filename="../validator.cpp" line="73"/>
         <source>No factions allowed for player %1</source>
         <translation type="unfinished">플레이어 %1에 허용된 진영이 없습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="75"/>
+        <location filename="../validator.cpp" line="76"/>
         <source>No players allowed to play this map</source>
         <translation type="unfinished">이 맵을 플레이할 수 있는 플레이어가 없습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="77"/>
+        <location filename="../validator.cpp" line="78"/>
         <source>Map is allowed for one player and cannot be started</source>
         <translation type="unfinished">맵은 한 명의 플레이어만 허용하며 시작할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="79"/>
+        <location filename="../validator.cpp" line="80"/>
         <source>No human players allowed to play this map</source>
         <translation type="unfinished">이 맵은 인간 플레이어가 플레이할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="99"/>
+        <location filename="../validator.cpp" line="100"/>
         <source>Object %1 is assigned to non-playable player %2</source>
         <translation type="unfinished">오브젝트 %1이(가) 비활성 플레이어 %2에 할당되어 있습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="144"/>
+        <location filename="../validator.cpp" line="145"/>
         <source>Spell scroll %1 doesn&apos;t have instance assigned and must be removed</source>
         <translation type="unfinished">주문서 %1에 인스턴스가 할당되어 있지 않아 제거해야 합니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="150"/>
+        <location filename="../validator.cpp" line="151"/>
         <source>Artifact %1 is prohibited by map settings</source>
         <translation type="unfinished">아티팩트 %1은(는) 맵 설정에서 금지되어 있습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="178"/>
+        <location filename="../validator.cpp" line="179"/>
         <source>Player %1 has no towns and heroes assigned</source>
         <translation type="unfinished">플레이어 %1에 도시와 영웅이 할당되어 있지 않습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="112"/>
+        <location filename="../validator.cpp" line="113"/>
         <source>Prison %1 must be a NEUTRAL</source>
         <translation type="unfinished">감옥 %1은 중립이어야 합니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="93"/>
+        <location filename="../validator.cpp" line="94"/>
         <source>Ownable object %1 is UNFLAGGABLE but must have NEUTRAL or player owner</source>
         <translation type="unfinished">소유 가능한 오브젝트 %1은 플래그 불가이지만 중립 또는 플레이어 소유여야 합니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="117"/>
+        <location filename="../validator.cpp" line="118"/>
         <source>Hero %1 must have an owner</source>
         <translation type="unfinished">영웅 %1에는 소유자가 있어야 합니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="124"/>
+        <location filename="../validator.cpp" line="125"/>
         <source>Hero %1 is prohibited by map settings</source>
         <translation type="unfinished">영웅 %1은 맵 설정에서 금지되어 있습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="127"/>
+        <location filename="../validator.cpp" line="128"/>
         <source>Hero %1 has duplicate on map</source>
         <translation type="unfinished">영웅 %1이 맵에 중복되어 있습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="130"/>
+        <location filename="../validator.cpp" line="131"/>
         <source>Hero %1 has an empty type and must be removed</source>
         <translation type="unfinished">영웅 %1의 유형이 비어 있어 제거해야 합니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="141"/>
+        <location filename="../validator.cpp" line="142"/>
         <source>Spell scroll %1 is prohibited by map settings</source>
         <translation type="unfinished">주문서 %1은 맵 설정에서 금지되어 있습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="163"/>
+        <location filename="../validator.cpp" line="164"/>
         <source>A customized witch hut at x: %1 y: %2 on %3 layer does not hold a valid secondary skill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="180"/>
+        <location filename="../validator.cpp" line="181"/>
         <source>Player %1 doesn&apos;t have any starting town</source>
         <translation type="unfinished">플레이어 %1에는 시작 도시가 없습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="186"/>
+        <location filename="../validator.cpp" line="187"/>
         <source>Map name is not specified</source>
         <translation type="unfinished">맵 이름이 지정되지 않았습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="188"/>
+        <location filename="../validator.cpp" line="189"/>
         <source>Map description is not specified</source>
         <translation type="unfinished">맵 설명이 지정되지 않았습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="226"/>
+        <location filename="../validator.cpp" line="227"/>
         <source>The map is valid and has no issues.</source>
         <translation type="unfinished">맵이 유효하며 문제가 없습니다</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="199"/>
+        <location filename="../validator.cpp" line="200"/>
         <source>Exception occurs during validation: %1</source>
         <translation type="unfinished">검증 중 예외 발생: %1</translation>
     </message>
     <message>
-        <location filename="../validator.cpp" line="203"/>
+        <location filename="../validator.cpp" line="204"/>
         <source>Unknown exception occurs during validation</source>
         <translation type="unfinished">검증 중 알 수 없는 예외 발생</translation>
     </message>
@@ -5120,32 +5155,32 @@ Guard: %3</source>
         <translation type="unfinished">취소</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="297"/>
+        <location filename="../windownewmap.cpp" line="298"/>
         <source>No template</source>
         <translation type="unfinished">템플릿 없음</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="297"/>
+        <location filename="../windownewmap.cpp" line="298"/>
         <source>No template for parameters specified. Random map cannot be generated.</source>
         <translation type="unfinished">지정된 매개변수에 맞는 템플릿이 없습니다. 무작위 맵을 생성할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="319"/>
+        <location filename="../windownewmap.cpp" line="320"/>
         <source>RMG failure</source>
         <translation type="unfinished">RMG 실패</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="346"/>
+        <location filename="../windownewmap.cpp" line="347"/>
         <source>Multilevel support</source>
         <translation type="unfinished">다중 레벨 지원</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="346"/>
+        <location filename="../windownewmap.cpp" line="347"/>
         <source>Multilevel support is highly experimental yet. Expect issues.</source>
         <translation type="unfinished">다중 레벨 지원은 아직 매우 실험적입니다. 문제가 발생할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="467"/>
+        <location filename="../windownewmap.cpp" line="468"/>
         <source>[default]</source>
         <translation type="unfinished">[기본값]</translation>
     </message>

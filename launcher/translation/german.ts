@@ -2002,12 +2002,12 @@ Bin (%n Bytes):
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../main.cpp" line="154"/>
+        <location filename="../main.cpp" line="159"/>
         <source>Error starting executable</source>
         <translation>Fehler beim Starten der ausführbaren Datei</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="155"/>
+        <location filename="../main.cpp" line="160"/>
         <source>Failed to start %1
 Reason: %2</source>
         <translation>Start von %1 fehlgeschlagen
@@ -2146,7 +2146,7 @@ Grund: %2</translation>
         <translation>Editor</translation>
     </message>
     <message numerus="yes">
-        <location filename="../startGame/StartGameTab.cpp" line="205"/>
+        <location filename="../startGame/StartGameTab.cpp" line="211"/>
         <source>Update %n mods</source>
         <translation>
             <numerusform>%n Mod aktualisieren</numerusform>
@@ -2154,7 +2154,7 @@ Grund: %2</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../startGame/StartGameTab.cpp" line="209"/>
+        <location filename="../startGame/StartGameTab.cpp" line="215"/>
         <source>Heroes Chronicles:
 %n/%1 installed</source>
         <translation>
@@ -2165,62 +2165,62 @@ Grund: %2</translation>
         </translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="234"/>
+        <location filename="../startGame/StartGameTab.cpp" line="240"/>
         <source>Update to %1 available</source>
         <translation>Update auf %1 verfügbar</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="268"/>
+        <location filename="../startGame/StartGameTab.cpp" line="274"/>
         <source>Install Heroes III</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="269"/>
+        <location filename="../startGame/StartGameTab.cpp" line="275"/>
         <source>This will remove all demo game data (Data, Maps, Mp3, Video folders) and restart the setup wizard. Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="293"/>
+        <location filename="../startGame/StartGameTab.cpp" line="299"/>
         <source>All supported files</source>
         <translation>Alle unterstützten Dateien</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="294"/>
+        <location filename="../startGame/StartGameTab.cpp" line="300"/>
         <source>Maps</source>
         <translation>Karten</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="295"/>
+        <location filename="../startGame/StartGameTab.cpp" line="301"/>
         <source>Campaigns</source>
         <translation>Kampagnen</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="296"/>
+        <location filename="../startGame/StartGameTab.cpp" line="302"/>
         <source>Configs</source>
         <translation>Konfigurationen</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="297"/>
+        <location filename="../startGame/StartGameTab.cpp" line="303"/>
         <source>Mods</source>
         <translation>Mods</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="298"/>
+        <location filename="../startGame/StartGameTab.cpp" line="304"/>
         <source>Gog files</source>
         <translation>Gog-Dateien</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="301"/>
+        <location filename="../startGame/StartGameTab.cpp" line="307"/>
         <source>All files (*.*)</source>
         <translation>Alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="303"/>
+        <location filename="../startGame/StartGameTab.cpp" line="309"/>
         <source>Select files (configs, mods, maps, campaigns, gog files) to install...</source>
         <translation>Wähle zu installierenden Dateien aus (Konfigs, Mods, Karten, Kampagnen, Gog-Dateien)...</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="346"/>
+        <location filename="../startGame/StartGameTab.cpp" line="352"/>
         <source>This option allows you to import additional data files into your VCMI installation. At the moment, following options are supported:
 
  - Heroes III Maps (.h3m or .vmap).
@@ -2239,17 +2239,17 @@ Grund: %2</translation>
 </translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="361"/>
+        <location filename="../startGame/StartGameTab.cpp" line="367"/>
         <source>Your Heroes III version uses different language. VCMI provides translations of the game into various languages that you can use. Use this option to automatically install such translation to your language.</source>
         <translation>Ihre Heroes III-Version verwendet eine andere Sprache. VCMI bietet Übersetzungen des Spiels in verschiedene Sprachen an, die Sie verwenden können. Verwenden Sie diese Option, um diese Übersetzungen automatisch in Ihrer Sprache zu installieren.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="371"/>
+        <location filename="../startGame/StartGameTab.cpp" line="377"/>
         <source>Translation of Heroes III into your language is installed, but has been turned off. Use this option to enable it.</source>
         <translation>Die Übersetzung von Heroes III in Ihre Sprache ist installiert, aber ausgeschaltet. Verwenden Sie diese Option, um sie zu aktivieren.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="381"/>
+        <location filename="../startGame/StartGameTab.cpp" line="387"/>
         <source>A new version of some of the mods that you have installed is now available in mod repository. Use this option to automatically update all your mods to latest version.
 
 WARNING: In some cases, updated versions of mods may not be compatible with your existing saves. You may want to postpone mod update until you finish any of your ongoing games.</source>
@@ -2258,14 +2258,14 @@ WARNING: In some cases, updated versions of mods may not be compatible with your
 WARNUNG: In einigen Fällen sind die aktualisierten Versionen der Mods nicht mit Ihren bestehenden Spielständen kompatibel. Es kann sein, dass Sie das Mod-Update verschieben möchten, bis Sie eines Ihrer laufenden Spiele beendet haben.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="393"/>
+        <location filename="../startGame/StartGameTab.cpp" line="399"/>
         <source>If you own Heroes Chronicles on gog.com, you can use offline backup installers provided by gog to import Heroes Chronicles data into VCMI as custom campaigns.
 To import Heroes Chronicles, download offline backup installer of each chronicle that you wish to install, select &apos;Import files&apos; option and select downloaded file. This will generate and install mod for VCMI that contains imported chronicles.</source>
         <translation>Wenn Sie Heroes Chronicles in Ihrer Sammlung auf gog.com haben, können Sie die von GOG bereitgestellten Offline-Versionen der Spiel-Installationsdateien nutzen, um die Heroes-Chronicles-Daten als benutzerdefinierte Kampagne in VCMI zu importieren.
 Um Heroes Chronicles zu importieren, laden Sie die Offline-Version der Spiel-Installationsdateien jeder Chronicle, die Sie installieren möchten, herunter. Klicken Sie dann auf &apos;Dateien importieren&apos; und wählen Sie die heruntergeladene Datei aus. Die importierten Chronicles werden dann automatisch als Modifikation für VCMI generiert und installiert.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="406"/>
+        <location filename="../startGame/StartGameTab.cpp" line="412"/>
         <source>VCMI has detected that Heroes III music files are missing from your installation. VCMI will run, but in-game music will not be available.
 
 To resolve this problem, please copy missing mp3 files from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files.</source>
@@ -2274,7 +2274,7 @@ To resolve this problem, please copy missing mp3 files from Heroes III to VCMI d
 Um dieses Problem zu beheben, kopieren Sie bitte die fehlenden mp3-Dateien von Hand aus Heroes III in den VCMI Datenordner oder installieren Sie VCMI erneut und re-importieren Sie die Heroes-III-Daten.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="417"/>
+        <location filename="../startGame/StartGameTab.cpp" line="423"/>
         <source>VCMI has detected that Heroes III video files are missing from your installation. VCMI will run, but in-game cutscenes will not be available.
 
 To resolve this problem, please copy VIDEO.VID file from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files.</source>
@@ -2283,7 +2283,7 @@ To resolve this problem, please copy VIDEO.VID file from Heroes III to VCMI data
 Um dieses Problem zu beheben, kopieren Sie bitte die VIDEO.VID-Datei von Hand aus Heroes III in den VCMI Datenordner oder installieren Sie VCMI erneut und re-importieren Sie die Heroes-III-Daten.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="428"/>
+        <location filename="../startGame/StartGameTab.cpp" line="434"/>
         <source>VCMI has detected that some of Heroes III data files are missing from your installation. You may attempt to run VCMI, but game may not work as expected or crash.
 
 To resolve this problem, please reinstall game and reimport data files using supported version of Heroes III. VCMI requires Heroes III: Shadow of Death or Complete Edition to run, which you can get (for example) from gog.com.</source>
@@ -2292,7 +2292,7 @@ To resolve this problem, please reinstall game and reimport data files using sup
 Um dieses Problem zu beheben, installieren Sie VCMI bitte und re-importieren Sie die Daten aus einer unterstützten Version von Heroes III. VCMI benötigt Heroes III: Shadow of Death oder Complete Edition um ausgeführt zu werden, welche Sie beispielsweise auf gog.com erwerben können.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="439"/>
+        <location filename="../startGame/StartGameTab.cpp" line="445"/>
         <source>VCMI has detected that some of Heroes III: Armageddon&apos;s Blade data files are missing from your installation. VCMI will work, but Armageddon&apos;s Blade campaigns will not be available.
 
 To resolve this problem, please copy missing data files from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files.</source>
@@ -2301,7 +2301,7 @@ To resolve this problem, please copy missing data files from Heroes III to VCMI 
 Um dieses Problem zu beheben, kopieren Sie bitte die fehlenden Dateien von Hand aus Heroes III in den VCMI Datenordner oder installieren Sie VCMI neu und re-importieren Sie die Heroes-III-Daten.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="450"/>
+        <location filename="../startGame/StartGameTab.cpp" line="456"/>
         <source>To improve graphics quality in VCMI, you can install files from the official Heroes III HD version on Steam.Select the Heroes HD folder from Steam.
 
 After installation, you need to set the upscaling filter to x2 or higher in order to actually see the HD graphics.</source>
@@ -2310,24 +2310,24 @@ After installation, you need to set the upscaling filter to x2 or higher in orde
 Nach der Installation müssen Sie den Upscaling-Filter auf x2 oder höher einstellen, um die HD-Grafiken tatsächlich sehen zu können.</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="489"/>
-        <location filename="../startGame/StartGameTab.cpp" line="498"/>
+        <location filename="../startGame/StartGameTab.cpp" line="495"/>
+        <location filename="../startGame/StartGameTab.cpp" line="504"/>
         <source>Preset import failed</source>
         <translation>Import der Voreinstellung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="489"/>
-        <location filename="../startGame/StartGameTab.cpp" line="498"/>
+        <location filename="../startGame/StartGameTab.cpp" line="495"/>
+        <location filename="../startGame/StartGameTab.cpp" line="504"/>
         <source>Failed to import preset - data in clipboard does not looks like mod preset!</source>
         <translation>Import der Voreinstellung fehlgeschlagen . Daten in der Zwischenablage sehen nicht wie Mod-Voreinstellungen aus!</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="514"/>
+        <location filename="../startGame/StartGameTab.cpp" line="520"/>
         <source>Enter preset name:</source>
         <translation>Namen der Voreinstellung eingeben:</translation>
     </message>
     <message>
-        <location filename="../startGame/StartGameTab.cpp" line="557"/>
+        <location filename="../startGame/StartGameTab.cpp" line="563"/>
         <source>Rename preset &apos;%1&apos; to:</source>
         <translation>Voreinstellung &apos;%1&apos; umbenennen in:</translation>
     </message>
