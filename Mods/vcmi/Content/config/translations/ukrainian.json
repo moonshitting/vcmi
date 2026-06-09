@@ -466,6 +466,7 @@
 	"vcmi.keyBindings.inputSet": "Прив'язка клавіш для {%s} буде змінена на {%s}.\n\nДодати до існуючих прив'язок? Інакше вона буде замінена.",
 	"vcmi.keyBindings.keyBinding.adventureCastSpell": "Мапа пригод: накласти закляття",
 	"vcmi.keyBindings.keyBinding.adventureDigGrail": "Мапа пригод: копати Грааль",
+	"vcmi.keyBindings.keyBinding.adventureDisembark": "Мапа пригод: висадка",
 	"vcmi.keyBindings.keyBinding.adventureEndTurn": "Мапа пригод: передати ход",
 	"vcmi.keyBindings.keyBinding.adventureExitWorldView": "Мапа пригод: вийти з огляду світу",
 	"vcmi.keyBindings.keyBinding.adventureFirstHero": "Мапа пригод: перший герой",
