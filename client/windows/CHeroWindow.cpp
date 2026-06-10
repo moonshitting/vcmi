@@ -32,15 +32,15 @@
 #include "../widgets/Slider.h"
 #include "../render/IRenderHandler.h"
 
-#include "../../lib/CConfigHandler.h"
-#include "../../lib/CSkillHandler.h"
-#include "../../lib/GameLibrary.h"
-#include "../../lib/callback/CCallback.h"
-#include "../../lib/entities/artifact/ArtifactUtils.h"
-#include "../../lib/entities/hero/CHeroHandler.h"
-#include "../../lib/mapObjects/CGHeroInstance.h"
-#include "../../lib/networkPacks/ArtifactLocation.h"
-#include "../../lib/texts/CGeneralTextHandler.h"
+#include "../lib/CConfigHandler.h"
+#include "../lib/CSkillHandler.h"
+#include "../lib/GameLibrary.h"
+#include "../lib/callback/CCallback.h"
+#include "../lib/entities/artifact/ArtifactUtils.h"
+#include "../lib/entities/hero/CHeroHandler.h"
+#include "../lib/mapObjects/CGHeroInstance.h"
+#include "../lib/networkPacks/ArtifactLocation.h"
+#include "../lib/texts/CGeneralTextHandler.h"
 
 void CHeroSwitcher::clickPressed(const Point & cursorPosition)
 {
@@ -71,14 +71,13 @@ CHeroSwitcher::CHeroSwitcher(CHeroWindow * owner_, Point pos_, const CGHeroInsta
 }
 
 CHeroWindow::CHeroWindow(const CGHeroInstance * hero)
-	: CWindowObject(PLAYER_COLORED, ImagePath::builtin(ENGINE->isRoeData() ? "HeroScr3" : "HeroScr4"))
+	: CWindowObject(PLAYER_COLORED, ImagePath::builtin("HeroScr4"))
 {
-	
 	auto & heroscrn = LIBRARY->generaltexth->heroscrn;
 
 	OBJECT_CONSTRUCTION;
 	curHero = hero;
-	
+
 	banner = std::make_shared<CAnimImage>(AnimationPath::builtin("CREST58"), GAME->interface()->playerID.getNum(), 0, background->getSurface()->width()-66, 8);
 	name = std::make_shared<CLabel>(190, 38, EFonts::FONT_BIG, ETextAlignment::CENTER, Colors::YELLOW);
 	title = std::make_shared<CLabel>(190, 65, EFonts::FONT_MEDIUM, ETextAlignment::CENTER, Colors::WHITE);
