@@ -158,7 +158,7 @@ CExchangeWindow::CExchangeWindow(ObjectInstanceID hero1, ObjectInstanceID hero2,
 		morale[b] = std::make_shared<MoraleLuckBox>(true, Rect(Point(176 + 490 * b, 39), Point(32, 32)), true);
 		luck[b] = std::make_shared<MoraleLuckBox>(false,  Rect(Point(212 + 490 * b, 39), Point(32, 32)), true);
 
-		fullbox[b] = std::make_shared<CPicture>(ENGINE->renderHandler().loadAnimation(AnimationPath::builtin("FullBodyImage"), getModeForFlags(0))->getImage(hero->getIconIndex(), 0), Rect(66, 0, 172, 514), -77+(77+800)*b, 0);
+		fullbox[b] = std::make_shared<CPicture>(ENGINE->renderHandler().loadAnimation(AnimationPath::builtin("FullBodyImage"), EImageBlitMode::COLORKEY)->getImage(hero->getIconIndex(), 0), Rect(95, 0, 114, 514), -134+(134+800)*b, 0);
 		fullbox[b]->scaleTo(Point(200, 600));
 	}
 
