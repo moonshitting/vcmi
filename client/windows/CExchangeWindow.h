@@ -40,6 +40,8 @@ class CExchangeWindow : public CStatusbarWindow, public IGarrisonHolder, public 
 	std::array<std::shared_ptr<MoraleLuckBox>, 2> morale;
 	std::array<std::shared_ptr<MoraleLuckBox>, 2> luck;
 
+	std::array<std::shared_ptr<CPicture>, 2> fullbox;
+
 	std::shared_ptr<CButton> quit;
 	std::array<std::shared_ptr<CButton>, 2> questlogButton;
 
