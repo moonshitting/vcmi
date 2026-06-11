@@ -159,8 +159,8 @@ CExchangeWindow::CExchangeWindow(ObjectInstanceID hero1, ObjectInstanceID hero2,
 		morale[b] = std::make_shared<MoraleLuckBox>(true, Rect(Point(176 + 490 * b, 39), Point(32, 32)), true);
 		luck[b] = std::make_shared<MoraleLuckBox>(false,  Rect(Point(212 + 490 * b, 39), Point(32, 32)), true);
 
-		fullbox[b] = std::make_shared<CPicture>(ENGINE->renderHandler().loadAnimation(AnimationPath::builtin("FullBodyImage"), EImageBlitMode::COLORKEY)->getImage(hero->getIconIndex(), 0), Rect(95, 0, 114, 514), -134+(134+800)*b, 0);
-		fullbox[b]->scaleTo(Point(200, 600));
+		fullbox[b] = std::make_shared<CPicture>(ENGINE->renderHandler().loadAnimation(AnimationPath::builtin("FullBodyImage"), EImageBlitMode::COLORKEY)->getImage(hero->getIconIndex(), 0), Rect(111, 0, 133, 600), -133+(133+800)*b, 0);
+		fullbox[b]->scaleTo(Point(355, 600)); //process ahead of crop
 	}
 
 	quit = std::make_shared<CButton>(Point(732, 567), AnimationPath::builtin("IOKAY.DEF"), LIBRARY->generaltexth->zelp[600], std::bind(&CExchangeWindow::close, this), EShortcut::GLOBAL_ACCEPT);
