@@ -26,6 +26,7 @@
 #include "../widgets/TextControls.h"
 
 #include "../render/IRenderHandler.h"
+#include "../render/CAnimation.h"
 
 #include "../lib/CSkillHandler.h"
 #include "../lib/GameLibrary.h"
