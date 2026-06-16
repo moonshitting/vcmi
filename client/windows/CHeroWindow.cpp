@@ -30,6 +30,7 @@
 #include "../widgets/TextControls.h"
 #include "../widgets/Buttons.h"
 #include "../widgets/Slider.h"
+#include "../widgets/VideoWidget.h"
 #include "../render/IRenderHandler.h"
 
 #include "../lib/CConfigHandler.h"
@@ -78,7 +79,6 @@ CHeroWindow::CHeroWindow(const CGHeroInstance * hero)
 	OBJECT_CONSTRUCTION;
 	curHero = hero;
 
-	const JsonNode config(JsonPath::builtin("config/widgets/HeroWindow2.json"));
 	banner = std::make_shared<CAnimImage>(AnimationPath::builtin("CREST58"), GAME->interface()->playerID.getNum(), 0, background->getSurface()->width()-66, 8);
 	name = std::make_shared<CLabel>(190, 38, EFonts::FONT_BIG, ETextAlignment::CENTER, Colors::YELLOW);
 	title = std::make_shared<CLabel>(190, 65, EFonts::FONT_MEDIUM, ETextAlignment::CENTER, Colors::WHITE);
@@ -120,6 +120,7 @@ CHeroWindow::CHeroWindow(const CGHeroInstance * hero)
 	portraitArea = std::make_shared<LRClickableAreaWText>(Rect(18, 18, 58, 64));
 	portraitImage = std::make_shared<CAnimImage>(AnimationPath::builtin("PortraitsLarge"), 0, 0, 19, 19);
 	fullImage = std::make_shared<CAnimImage>(AnimationPath::builtin("FullBodyImage"), 0, 0, 607, 18);
+	fullVideo = std::make_shared<VideoWidgetOnce>(Point(607, 18), VideoPath::builtin(std::to_string(curHero->getIconIndex() + 100000) + ".webm"), false, this);
 
 	portraitWikiArea = std::make_shared<LRClickableArea>(Rect(18, 18, 58, 64), [this]()
 	{
