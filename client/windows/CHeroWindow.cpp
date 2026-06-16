@@ -78,6 +78,7 @@ CHeroWindow::CHeroWindow(const CGHeroInstance * hero)
 	OBJECT_CONSTRUCTION;
 	curHero = hero;
 
+	const JsonNode config(JsonPath::builtin("config/widgets/HeroWindow2.json"));
 	banner = std::make_shared<CAnimImage>(AnimationPath::builtin("CREST58"), GAME->interface()->playerID.getNum(), 0, background->getSurface()->width()-66, 8);
 	name = std::make_shared<CLabel>(190, 38, EFonts::FONT_BIG, ETextAlignment::CENTER, Colors::YELLOW);
 	title = std::make_shared<CLabel>(190, 65, EFonts::FONT_MEDIUM, ETextAlignment::CENTER, Colors::WHITE);
