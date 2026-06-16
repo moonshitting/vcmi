@@ -117,6 +117,7 @@ public:
 	void updateGarrisons() override;
 	bool holdsGarrison(const CArmedInstance * army) override;
 	void createBackpackWindow();
+	void onVideoPlaybackFinished() override;
 
 	//friends
 	friend class CPlayerInterface;
