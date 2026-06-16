@@ -14,6 +14,7 @@
 #include "../../lib/bonuses/IBonusBearer.h"
 
 #include "../widgets/IVideoHolder.h"
+#include "../widgets/VideoWidget.h"
 
 #include <vcmi/FactionMember.h>
 
