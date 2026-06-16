@@ -394,3 +394,8 @@ bool CHeroWindow::holdsGarrison(const CArmedInstance * army)
 {
 	return army == curHero;
 }
+
+void CHeroWindow::onVideoPlaybackFinished()
+{
+	
+}
