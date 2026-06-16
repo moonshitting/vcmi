@@ -13,6 +13,8 @@
 
 #include "../../lib/bonuses/IBonusBearer.h"
 
+#include "../widgets/IVideoHolder.h"
+
 #include <vcmi/FactionMember.h>
 
 VCMI_LIB_NAMESPACE_BEGIN
@@ -48,7 +50,7 @@ public:
 	CHeroSwitcher(CHeroWindow * owner_, Point pos_, const CGHeroInstance * hero_);
 };
 
-class CHeroWindow : public CStatusbarWindow, public IGarrisonHolder, public CWindowWithArtifacts
+class CHeroWindow : public CStatusbarWindow, public IGarrisonHolder, public CWindowWithArtifacts, public IVideoHolder
 {
 	std::shared_ptr<CLabel> name;
 	std::shared_ptr<CLabel> title;
@@ -62,6 +64,7 @@ class CHeroWindow : public CStatusbarWindow, public IGarrisonHolder, public CWin
 	std::shared_ptr<LRClickableArea>     portraitWikiArea;
 	std::shared_ptr<CAnimImage> portraitImage;
 	std::shared_ptr<CAnimImage> fullImage;
+	std::shared_ptr<VideoWidgetOnce> fullVideo;
 
 	std::vector<std::shared_ptr<LRClickableAreaWTextComp>> primSkillAreas;
 	std::vector<std::shared_ptr<CAnimImage>> primSkillImages;
