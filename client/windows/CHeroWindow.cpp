@@ -397,5 +397,5 @@ bool CHeroWindow::holdsGarrison(const CArmedInstance * army)
 
 void CHeroWindow::onVideoPlaybackFinished()
 {
-    removeChild(fullVideo);
+    removeChild(fullVideo.get());
 }
