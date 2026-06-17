@@ -126,7 +126,7 @@ CHeroWindow::CHeroWindow(const CGHeroInstance * hero)
 	std::vector<VideoPath> availableVideos;
 	for(int i = (curHero->getIconIndex() + 1000)*100; i <= (curHero->getIconIndex() + 1000)*100+9; ++i)
 		{
-			std::string filename = std::to_string(i) + ".webm";
+			std::string filename = "Video/" + std::to_string(i) + ".webm";
 			VideoPath path = VideoPath::builtin(filename);
 
 			if(CResourceHandler::get()->existsResource(path))
