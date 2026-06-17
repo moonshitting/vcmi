@@ -33,6 +33,8 @@
 #include "../widgets/VideoWidget.h"
 #include "../render/IRenderHandler.h"
 
+#include "../lib/filesystem/Filesystem.h"
+
 #include "../lib/CConfigHandler.h"
 #include "../lib/CSkillHandler.h"
 #include "../lib/GameLibrary.h"
@@ -120,7 +122,26 @@ CHeroWindow::CHeroWindow(const CGHeroInstance * hero)
 	portraitArea = std::make_shared<LRClickableAreaWText>(Rect(18, 18, 58, 64));
 	portraitImage = std::make_shared<CAnimImage>(AnimationPath::builtin("PortraitsLarge"), 0, 0, 19, 19);
 	fullImage = std::make_shared<CAnimImage>(AnimationPath::builtin("FullBodyImage"), 0, 0, 607, 18);
-	fullVideo = std::make_shared<VideoWidgetOnce>(Point(607, 18), VideoPath::builtin(std::to_string(curHero->getIconIndex() + 100000) + ".webm"), false, this);
+
+	std::vector<VideoPath> availableVideos;
+	for(int i = (curHero->getIconIndex() + 1000)*100; i <= (curHero->getIconIndex() + 1000)*100+9; ++i)
+		{
+			std::string filename = std::to_string(i) + ".webm";
+			VideoPath path = VideoPath::builtin(filename);
+
+			if(CResourceHandler::get()->existsResource(path))
+			{
+				availableVideos.push_back(path);
+			}
+		}
+	if(!availableVideos.empty())
+	{    
+		static std::mt19937 rng(std::random_device{}());    
+		std::uniform_int_distribution<size_t> dist(0, availableVideos.size() - 1);  
+		VideoPath selected = availableVideos[dist(rng)];
+		fullVideo = std::make_shared<VideoWidgetOnce>(Point(607, 18), selected, false, this);
+	}
+	//fullVideo = std::make_shared<VideoWidgetOnce>(Point(607, 18), VideoPath::builtin(std::to_string(curHero->getIconIndex() + 100000) + ".webm"), false, this);
 
 	portraitWikiArea = std::make_shared<LRClickableArea>(Rect(18, 18, 58, 64), [this]()
 	{
